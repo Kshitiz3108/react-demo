@@ -1,0 +1,16 @@
+.char-vowel{
+    display: inline-block;
+    padding: 16px;
+    text-align: center;
+    margin: 16px;
+    border: 1px solid blue;
+    background-color: salmon;
+}
+.char-const{
+    display: inline-block;
+    padding: 16px;
+    text-align: center;
+    margin: 16px;
+    border: 5px dotted red;
+    background-color: skyblue;
+}
